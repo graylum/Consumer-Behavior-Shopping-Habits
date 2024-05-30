@@ -22,3 +22,7 @@ The Consumer Behavior and Shopping Habits Dataset provides a detailed overview o
 Problem Statement:
 
 In an attempt to understand consumer buying behavior, we will employ classification and regression models to better help understand patterstand patterns and predict future trends.
+
+Presentation Video (Presented by Gray Lumsden) Link:
+
+https://youtu.be/sLRAOErVfdw?si=wMD1-UHAu_OR2xA-
